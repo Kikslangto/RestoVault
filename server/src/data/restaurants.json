@@ -1,0 +1,276 @@
+[
+  {
+    "image": "",
+    "heroImage": "",
+    "badge": null,
+    "website": "",
+    "phone": "+63 925 827 2730",
+    "hours": [],
+    "reviews": [],
+    "ratingSource": "Tripadvisor",
+    "order": 1,
+    "slug": "the-souq-pampanga",
+    "name": "The SOUQ Pampanga",
+    "cuisine": "Filipino & International",
+    "tag": "International",
+    "price": "PP",
+    "rating": 4.6,
+    "reviewCount": 354,
+    "address": "2MRF+636, Lazatin Blvd, San Fernando, Pampanga",
+    "description": "A garden-like warehouse dinner spot in San Fernando.",
+    "longDescription": "The SOUQ Pampanga is set in a large warehouse in San Fernando, dressed up with rustic furniture, hanging plants, and warm lighting. Fire-baked pizza and seafood paella are the dishes guides point first-timers to. There is a private parking lot at the entrance, and sunset is a good time to arrive, when daylight gives way to string lights.",
+    "featured": true,
+    "featuredDesc": "A rustic warehouse turned dinner spot, known for fire-baked pizza and seafood paella.",
+    "menu": [
+      {
+        "category": "Known for",
+        "items": [
+          {
+            "name": "Fire-baked pizza",
+            "description": "Baked over fire, with a charred crust.",
+            "price": ""
+          },
+          {
+            "name": "Seafood paella",
+            "description": "A shareable rice dish loaded with seafood.",
+            "price": ""
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "Dine-in",
+      "Private parking"
+    ],
+    "sourceUrl": "https://www.tripadvisor.com/Restaurant_Review-g298455-d5951626-Reviews-The_SOUQ_Pampanga-San_Fernando_Pampanga_Province_Central_Luzon_Region_Luzon.html"
+  },
+  {
+    "image": "",
+    "heroImage": "",
+    "badge": "Reservation only",
+    "website": "",
+    "phone": "",
+    "hours": [
+      {
+        "day": "By reservation only",
+        "time": "Book months in advance"
+      }
+    ],
+    "reviews": [],
+    "ratingSource": "Tripadvisor",
+    "order": 2,
+    "slug": "bale-dutung",
+    "name": "Bale Dutung",
+    "cuisine": "Kapampangan",
+    "tag": "Kapampangan",
+    "price": "PPP",
+    "rating": 4.5,
+    "reviewCount": 46,
+    "address": "Paul Ave, Villa Gloria Subdivision, Angeles City, Pampanga",
+    "description": "Chef Claude Tayag's home, opened for tasting menus.",
+    "longDescription": "Bale Dutung, meaning \"House of Wood\", is chef Claude Tayag's own home in Angeles City, opened for pre-arranged Kapampangan meals. Reservations are needed months ahead, and the 10-course meal takes about four hours. The best-known set is the Anthony Bourdain menu, built around the dishes the late chef ate on his visit, and a lechon menu is also on offer. The house sits inside a quiet residential village, so parking is easy.",
+    "featured": true,
+    "featuredDesc": "Tasting menus at a chef's home, from the Anthony Bourdain menu to lechon.",
+    "menu": [
+      {
+        "category": "Tasting menus",
+        "items": [
+          {
+            "name": "Anthony Bourdain menu",
+            "description": "The dishes served during Bourdain's visit.",
+            "price": ""
+          },
+          {
+            "name": "Lechon menu",
+            "description": "A tasting built around roast pig.",
+            "price": ""
+          },
+          {
+            "name": "Kapampangan menu",
+            "description": "Chef Tayag's take on the province's classics.",
+            "price": ""
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "Reservation only",
+      "Tasting menu",
+      "Home dining"
+    ],
+    "sourceUrl": "https://www.tripadvisor.com/Restaurant_Review-g469410-d2248565-Reviews-Bale_Dutung-Angeles_City_Pampanga_Province_Central_Luzon_Region_Luzon.html"
+  },
+  {
+    "image": "",
+    "heroImage": "",
+    "badge": null,
+    "website": "",
+    "phone": "",
+    "hours": [],
+    "reviews": [],
+    "ratingSource": "Tripadvisor",
+    "order": 3,
+    "slug": "milas-tokwa-t-baboy",
+    "name": "Mila's Tokwa't Baboy",
+    "cuisine": "Kapampangan",
+    "tag": "Kapampangan",
+    "price": "PP",
+    "rating": 4.2,
+    "reviewCount": 111,
+    "address": "San Angelo St, Brgy. San Roque, Angeles City, Pampanga",
+    "description": "No-frills sisig and tokwa't baboy in Angeles.",
+    "longDescription": "Mila's began as a small neighborhood stall and grew into a local institution in Angeles City. The kitchen fries its own take on sisig and serves it on a hot sizzling plate, but the dish most people come for is tokwa't baboy: fried tofu and boiled pork ears in a soy-vinegar dressing. Service is casual. Find a table, order a soda, and eat. Tripadvisor reviewers also mention crispy ulo, pata, dinuguan, and street-style barbecue.",
+    "featured": true,
+    "featuredDesc": "A neighborhood stall turned local institution, famous for tokwa't baboy and sizzling sisig.",
+    "menu": [
+      {
+        "category": "House favorites",
+        "items": [
+          {
+            "name": "Tokwa't baboy",
+            "description": "Fried tofu and boiled pork ears in a soy-vinegar dressing.",
+            "price": ""
+          },
+          {
+            "name": "Sizzling sisig",
+            "description": "Their fried version, served on a hot plate.",
+            "price": ""
+          },
+          {
+            "name": "Crispy pata",
+            "description": "Deep-fried pork leg.",
+            "price": ""
+          },
+          {
+            "name": "Dinuguan",
+            "description": "Pork stew simmered in blood.",
+            "price": ""
+          },
+          {
+            "name": "Barbecue",
+            "description": "Grilled street-style skewers.",
+            "price": ""
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "Dine-in",
+      "Casual",
+      "Local favorite"
+    ],
+    "sourceUrl": "https://www.tripadvisor.com/Restaurant_Review-g469410-d6938997-Reviews-Mila_s_Tokwa_t_Baboy-Angeles_City_Pampanga_Province_Central_Luzon_Region_Luzon.html"
+  },
+  {
+    "image": "",
+    "heroImage": "",
+    "badge": null,
+    "website": "",
+    "phone": "",
+    "hours": [],
+    "reviews": [],
+    "ratingSource": "Tripadvisor",
+    "order": 4,
+    "slug": "abes-farm",
+    "name": "Abe's Farm",
+    "cuisine": "Kapampangan",
+    "tag": "Kapampangan",
+    "price": "PP",
+    "rating": 4,
+    "reviewCount": 70,
+    "address": "98 Livestock Village, Barangay Ayala, Magalang, Pampanga",
+    "description": "Kapampangan cooking at the foot of Mount Arayat.",
+    "longDescription": "Abe's Farm is worth the drive out to Magalang, at the foothills of Mount Arayat. Meals are served in a traditional wooden hut surrounded by greenery. Guides recommend the bamboo rice and the sinigang na baboy sa ube, a sour pork soup thickened with purple yam. The menu also includes spicy sizzling sisig, crispy tadyang, and adventurous dishes such as farm crickets. Stay for a cup of local coffee afterwards.",
+    "featured": false,
+    "featuredDesc": "Farm-side Kapampangan dishes in a wooden hut under Mount Arayat.",
+    "menu": [
+      {
+        "category": "Kapampangan dishes",
+        "items": [
+          {
+            "name": "Bamboo rice",
+            "description": "Rice cooked in bamboo.",
+            "price": ""
+          },
+          {
+            "name": "Sinigang na baboy sa ube",
+            "description": "Sour pork soup thickened with purple yam.",
+            "price": ""
+          },
+          {
+            "name": "Spicy sizzling sisig",
+            "description": "Pampanga-style sisig on a hot plate.",
+            "price": ""
+          },
+          {
+            "name": "Crispy tadyang",
+            "description": "Crisp-fried ribs.",
+            "price": ""
+          },
+          {
+            "name": "Arobung kamaru",
+            "description": "Farm crickets, for the adventurous.",
+            "price": ""
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "Dine-in",
+      "Scenic setting",
+      "Exotic dishes"
+    ],
+    "sourceUrl": "https://www.tripadvisor.com/Restaurant_Review-g8449825-d2405935-Reviews-Abe_s_Farm-Magalang_Pampanga_Province_Central_Luzon_Region_Luzon.html"
+  },
+  {
+    "image": "",
+    "heroImage": "",
+    "badge": null,
+    "website": "",
+    "phone": "+63 939 989 2382",
+    "hours": [],
+    "reviews": [],
+    "ratingSource": "Tripadvisor",
+    "order": 5,
+    "slug": "matam-ih",
+    "name": "Matam-ih Authentic Kapampangan Cuisine",
+    "cuisine": "Kapampangan",
+    "tag": "Kapampangan",
+    "price": "PP",
+    "rating": 3.8,
+    "reviewCount": 197,
+    "address": "Manuel A. Roxas Hwy, Clark Freeport Zone, Pampanga",
+    "description": "Open-air Kapampangan feasts inside Clark.",
+    "longDescription": "Matam-ih has a very large open-air dining area inside the Clark Freeport Zone. Staff wear traditional Aeta clothing and dishes carry indigenous names. Start with the binulo na tinola, a chicken soup cooked inside a bamboo stalk. The menu also leans into exotic and gamey meats, which makes it a good stop for a group that wants a crash course in Kapampangan food. The parking lot is large.",
+    "featured": false,
+    "featuredDesc": "A big open-air Kapampangan restaurant in Clark, known for bamboo-cooked chicken soup.",
+    "menu": [
+      {
+        "category": "Specialties",
+        "items": [
+          {
+            "name": "Binulo na tinola",
+            "description": "Chicken soup cooked inside a fresh bamboo stalk.",
+            "price": ""
+          },
+          {
+            "name": "Binagoongang baboy",
+            "description": "Pork stewed in shrimp paste.",
+            "price": ""
+          },
+          {
+            "name": "Exotic Kapampangan dishes",
+            "description": "Gamey meats and other traditional dishes.",
+            "price": ""
+          }
+        ]
+      }
+    ],
+    "tags": [
+      "Dine-in",
+      "Large groups",
+      "Parking"
+    ],
+    "sourceUrl": "https://www.tripadvisor.com/Restaurant_Review-g3336531-d8332732-Reviews-Matam_ih_Authentic_Kapampangan_Cuisine-Clark_Freeport_Zone_Pampanga_Province_Cen.html"
+  }
+]
